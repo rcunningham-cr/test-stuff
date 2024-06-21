@@ -1,0 +1,13 @@
+---
+hostname: abc123-vm-6969
+customer_code: abc123
+nat_customer_code: 
+region: ap-northeast-1
+live_service_name: 
+uat_service_name: 
+database_name: 
+posgres: 
+group: 
+users:
+
+
