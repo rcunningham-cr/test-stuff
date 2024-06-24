@@ -1,0 +1,18 @@
+---
+hostname: def213
+database_name: DB0001
+linux_groups: 
+ - name: def456
+   gid: 1200
+kcml_users:
+          - name: TR1-123
+            group: group1
+            home: /hsp/login/abc123
+            uid: 1218
+            comment: training1
+          - name: TR2-123
+            group: group1
+            home: /hsp/login/abc123
+            uid: 1219
+            comment: training2
+
